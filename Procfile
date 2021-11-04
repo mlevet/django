@@ -1,1 +1,1 @@
-web: gunicorn sanja-test.wsgi --log-file -
+web: gunicorn sanjatest.wsgi --log-file -

@@ -62,6 +62,7 @@ django-crispy-forms==1.6.0
 django-debug-toolbar==1.4
 django-filer==1.7.0
 django-formtools==2.2
+django-heroku==0.3.1
 django-js-asset==1.2.2
 django-modelcluster==4.4
 django-mptt==0.11.0
